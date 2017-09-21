@@ -8,10 +8,10 @@ as well as deobfuscate scripts processed by
 ## About this repo
 This repo is maintained in github and is content of [beautify.hemshrestha.com.np](http://beautify.hemshrestha.com.np)
 
-Here we will learn to build a repo that will be hosted in the custom domain such as[beautify.hemshrestha.com.np](http://beautify.hemshrestha.com.np)
+Here we will learn to build a repo that will be hosted in the custom domain such as [beautify.hemshrestha.com.np](http://beautify.hemshrestha.com.np)
 
 ### Steps for custom domain hosting in github
-1. First of all signin to account in[github](https://github.com)and create a new repository.  
+1. First of all signin to account in [github](https://github.com) and create a new repository.  
 2. Now, goto the project folder and initialize a repo.
     ```
     $ git init
